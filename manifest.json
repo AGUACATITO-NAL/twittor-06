@@ -42,6 +42,11 @@
             "src":"img/icons/icon-384x384.png",
             "type":"image/png",
             "sizes":"384x384"
+        },
+        {
+            "src":"img/icons/icon-384x384.png",
+            "type":"image/png",
+            "sizes":"384x384"
         }
     ]
 }
